@@ -7,6 +7,8 @@ They said more meat.  How about this?  HAMBURGERS.
 And, here are some sides.  FRENCH FRIES.
 
 
+OK, now here's the crazy part.  This has been moved in the canonical repo, but not in the original.  What's gonna happen now?
+
 [NOTE]
 .About the Author
 ****
